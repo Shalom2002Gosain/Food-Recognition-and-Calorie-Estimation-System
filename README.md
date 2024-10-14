@@ -1,10 +1,9 @@
 #  Food Recognition and Calorie Estimation System
 ## Objective:-
-        The aim of this project is to develop a system that can accurately recognize food items from images and estimate their calorie content. This system helps users track their dietary intake and make informed food choices by using image recognition techniques and simple calorie estimation algorithms. 
+The aim of this project is to develop a system that can accurately recognize food items from images and estimate their calorie content. This system helps users track their dietary intake and make informed food choices by using image recognition techniques and simple calorie estimation algorithms. 
 #
 ## System Components:
-###Image Preprocessing and Feature Extraction:-
-
+### Image Preprocessing and Feature Extraction:-
 * OpenCV is used to load and resize food images into a standard format.
 * Features such as color histograms are extracted from the images to capture color distribution, which serves as a simplified representation of the food items.
 
